@@ -98,11 +98,6 @@ public class SudokuGenerator {
 		return 0;
 	}
 	
-	/****************************************************************************************************/
-	/* ********************* TECH-RANCH ******************************************************/
-	/* ***************  PROJECT NAME : Sudoku Game Application  Demonstration****************/
-	/* ***************  AUTHOR : ANJALI SINGH  ***********************************************/
-	/* ***************  Dated : OCTOBER 17, 2019, Thursday *************************************/
 
 	public static int[][] generate(int difficulty){
 		Random r = new Random();
@@ -146,6 +141,3 @@ public class SudokuGenerator {
 		return board;
 	}
 }
-/* *****************COPY RIGHT - TECH-RANCH @ 2019***********/
-/* ******************** LET's MAKE CODING FUN ! *************/
-/* **********************************************************/
